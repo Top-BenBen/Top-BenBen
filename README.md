@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Top-BenBen
 - 👀 I’m interested in Data Analytics Projects
-- 🌱 I’m currently learning DataAnalytics
-- 💞️ I’m looking to collaborate on any projects
+- 🌱 I’m currently learning Data Analytics
+- 💞️ I’m looking to collaborate on any Data Analytics and/or Project Management projects. 
 - 📫 How to reach me via doyiben@gmail.com
-- 😄 Pronouns: He
+- 😄 Pronouns: Him/He
 - ⚡ Fun fact: Cooking and soccer
 
 <!---
