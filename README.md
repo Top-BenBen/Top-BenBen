@@ -1,3 +1,5 @@
+Hi there, welcome to my GitHub portfolio. This portfolio showcases projects developed using Python and MySQL Workbench. Feel free to explore.
+
 - 👋 Hi, I’m @Top-BenBen
 - 👀 I’m interested in Data Analytics Projects
 - 🌱 I’m currently learning Data Analytics
